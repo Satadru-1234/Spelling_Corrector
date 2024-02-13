@@ -7,5 +7,4 @@ Before Use it, make sure that textblob is installed on the system. TextBlob is a
 1. part -of-speech<p>
 2. Sentiment analysis<p>
 3. Classification  etc.<p>
-<br></br>
 Author - Satadru Naskar
